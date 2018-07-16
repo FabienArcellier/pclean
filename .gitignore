@@ -1,0 +1,9 @@
+/*.egg-info
+__pycache__
+.idea
+dist
+venv
+venv3
+.coverage
+**.pyc
+MANIFEST
