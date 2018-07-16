@@ -1,4 +1,4 @@
-## Synopsis
+## Pclean
 
 `pclean` is a command to keep only alphanumeric characters from a string given as input.
 It's useful to convert page title into directory name.
@@ -7,6 +7,8 @@ It's useful to convert page title into directory name.
 pclean "Topic modeling with Gensim and Latent Dirichlet Allocation (LDA)"
 # topic_modeling_with_gensim_and_latent_dirichlet_allocation__lda_
 ```
+
+[![Build Status](https://travis-ci.org/FabienArcellier/pclean.svg?branch=master)](https://travis-ci.org/FabienArcellier/pclean)
 
 ## The latest version
 
